@@ -82,3 +82,17 @@ In software development, requirements are classified into **Functional** and **N
 - System scalability to handle multiple concurrent users
 - User-friendly and intuitive interface
 - Availability of 99.9% uptime
+## Use Case Diagrams
+
+**Use Case Diagrams** are a visual representation of the interactions between **actors** (users or external systems) and the system itself.  
+They help to illustrate **system functionality**, clarify requirements, and communicate effectively with stakeholders.
+
+### Benefits:
+- Provides a **clear overview** of system functionality.  
+- Helps identify **primary actors and their interactions** with the system.  
+- Supports **requirement validation** and discussion with stakeholders.  
+
+### Booking Management System Use Case Diagram
+The diagram below shows the key actors and use cases for our booking system:
+
+![Booking System Use Case Diagram](alx-booking-uc.png)
