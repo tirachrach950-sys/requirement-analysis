@@ -96,3 +96,23 @@ They help to illustrate **system functionality**, clarify requirements, and comm
 The diagram below shows the key actors and use cases for our booking system:
 
 ![Booking System Use Case Diagram](alx-booking-uc.png)
+## Acceptance Criteria
+
+**Acceptance Criteria** are the conditions that a software feature must meet to be considered complete and acceptable by stakeholders.  
+They serve as a **benchmark** to ensure that requirements are correctly implemented and the software meets business expectations.
+
+### Importance:
+- **Ensures clarity:** Clearly defines what is expected from a feature.  
+- **Guides development and testing:** Provides developers and testers with measurable goals.  
+- **Prevents misunderstandings:** Reduces the risk of implementing incorrect or incomplete features.  
+
+### Example: Checkout Feature (Booking Management System)
+**Feature:** Checkout and Payment Process
+
+**Acceptance Criteria:**
+1. The user can add a property to the cart and proceed to checkout.  
+2. Payment can be completed using supported payment methods (e.g., credit card, PayPal).  
+3. A confirmation message is displayed after successful payment.  
+4. Users receive an email receipt for the booking.  
+5. The system prevents checkout if required information (e.g., payment details) is missing.  
+6. Transactions are securely processed and data is encrypted.
